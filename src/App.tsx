@@ -28,6 +28,9 @@ const App = () => {
             get started
           </a>
         </nav>
+        <section className="h-auto w-screen flex justify-center items-center py-[5%]">
+            <h1 className="text-[15vh] font-normal font-custom">i make ideas happen</h1>
+        </section>
       </main>
     </BubbleDemo>
   );
